@@ -41,7 +41,7 @@ const Cryptocurrencies = () => {
     >
       <Container>
         <Box sx={{ marginTop: { md: "8%", xs: "14%" }, textAlign: "center" }}>
-          <Typography variant="h3">Cryptocurrencies</Typography>
+          <Typography variant="h3">Cryptocurrences</Typography>
         </Box>
 
         <Box sx={{ marginTop: "4%", marginLeft: "1%" }}>
